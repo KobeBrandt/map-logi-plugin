@@ -1,6 +1,6 @@
 # Maps for OpenStreetMap
 
-Browse OpenStreetMap from a Logitech or Loupedeck device. Every map action shares one map view, so turning the zoom dial
+Browse OpenStreetMap from a Logitech MX Keypad. Every map action shares one map view, so turning the zoom dial
 updates the map on every button at once.
 
 This plugin was made to test how far the Logitech MX Creative Keypad could be taken: can nine small LCD keys work
